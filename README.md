@@ -2,5 +2,9 @@
 Todo List app built with Vanilla JS
 
 HTML
-CSS
+
+
+Custom CSS
+
+
 JS
